@@ -1,0 +1,52 @@
+
+Hi! I'm the owner of a large Canadian snow removal company. We cater to almost all cities in Canada.
+We've done it for the past 10 years and our business keeps on growing.
+we'd like to keep a very clear record of all our clients' information. 
+
+Records should include their first and last names, address and date they started using our service.
+It should also include a description of the type of area they would like snow to be removed from,
+and the measurements in metres of that specific area as well.
+Please note that we only accept clients who have at least 15 metres ² of land to clear.
+
+Our clients have 3 options of how often they could use our service:
+1) elite - every time it snows
+2) standard - once a week
+3) occasional - bi weekly
+this should also be specified.
+
+Reports:
+1)we'd like to send out special offers to our best clients.
+Only clients who used our service for 5 years or more OR clients who use our elite service should be listed and have a star next to their full name (ex:John Smith*)
+2)How many clients are there per our three categories (elite, standard, occasional)?
+3)How many years have each of our clients used our service for?
+4)we'd like to see how much a client pays us per month.
+We charge $3.00 per m² every time we come.
+This column should always be shown.
+
+Question: Do you ever have clients who stop using your service? 
+if yes, do you want to keep a record of it?
+Answer: Yes, occasionly clients do stop using our service due to various reasons and it is certainly important to store this information.
+Question:Do you also need the time when they started using your service?
+Answer: No, date is enough!
+Question: What do you want us to include in their address?
+Answer: As we cater to many cities a clear address is necessary. Address should include address number, street name, city, province and zipcode.
+Question: You mentioned that you cater to almost all cities in Canada, which cities do you exclude?
+Answer: It doesn't pay for us to do the cities in Canada's three territories: Northwest Territories, the Yukon and Nunavut. 
+Question: What's the average amount of days a month you have to remove the snow for a client that uses the elite service?
+Answer:10 times a month
+Question: What's the highest amount you would eveer charge a client?
+Answer: Clients who use our elite option obviously pay the most. As we only have equipment for lots that go upto 500m²
+our price can't exceede more than $20,000.00 a month.  
+
+Sample Data:
+first name, last name, address, city, province, zipcode, lot description, lot meaurements in m², frequency, date started using service, date ended using service
+Mark, Man, 1607 St. John Street, Archerwill, Saskatchewan, S4P 3Y2, driveway, 15, standard, 2020/2/9, null
+Charles, Fisher, 4514 Eglinton Avenue, Toronto, Ontario, M4P 1A6, staircase and pathway, 25, standard, 2015/3/19, null
+Jonathan, Magno, 2153 MacLaren Street,  Ottawa, Ontario, driveway, 20, elite, 2014/12/5, 2022/12/18
+Frank, Dickens, 3923 Weston Rd, Toronto, Ontario, M9N 1G4, driveway and pathway, 18, occasional, 2018/1/1, null
+Mark, Twain, 4786 St. Paul Street,  Niagara Falls, Ontario, L2E 4E6, pathway and backyard, 40, elite, 2020/11/9, 2021/12/6
+Elie, Swift, 1654 Fourth Avenue, Calgary, Alberta, T2P 0H3, porch and staircase and pathway, 45, elite, 2015/1/9, null
+Raymond, Baum, 4381 St-Jerome Street, St Jerome, Quebec, S4P 3Y2, backyard and driveway, 38, standard, 2019/12/15, null
+Martin, Wiesel, 1308 Tanner Street, Vancouver, British Columbia, V5R 2T4, pathway and backyard and back porch, 42, elite, 2021/1/27, null
+Paul, Francois, 352 Bridgeport Rd, Alliston, Ontario, L9R 1H4, staircase and pathway, 25, occasional, 2014/12/6, 2021/12/6
+Jo, Twain, 2529 Keith Road, North Vancouver, British Columbia, V5T 2C1, pathway and driveway and staircase, 35, standard, 2020/11/9, null
