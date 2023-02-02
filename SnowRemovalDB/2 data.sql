@@ -3,7 +3,7 @@ go
 delete Client 
 go
 
-insert Client(FirstName, LastName, Address, City, Province, Zipcode, LotDescription, MeasurementInMeters, Frequency, DateStarted, DateEnded)
+insert Client(FirstName, LastName, StreetAddress, City, Province, Zipcode, LotDescription, MeasurementInMeters, Frequency, DateStarted, DateEnded)
 select 'Mark', 'Man', '1607 St. John Street', 'Archerwill', 'Saskatchewan', 'S4P 3Y2', 'driveway', 15, 'standard', '2020/2/9', null
 union select 'Charles', 'Fisher', '4514 Eglinton Avenue', 'Toronto', 'Ontario', 'M4P 1A6', 'staircase and pathway', 25, 'standard', '2015/3/19', null
 union select 'Jonathan', 'Magno', '2153 MacLaren Street',  'Ottawa', 'Ontario', 'M32 1H3', 'driveway', 20, 'elite', '2014/12/5', '2022/12/18'

@@ -18,7 +18,7 @@ select NumOfYears = datediff(year, c.DateStarted, isnull(c.DateEnded, getdate())
 from Client c 
 --4)we'd like to see how much a client pays us per month.
 select Client = concat(c.FirstName, ' ', c.LastName), 
-    CostPerMonth = c.TotalCost * 
+    CostPerMonth = c.TotalCostForOneTime * 
     case 
         when c.Frequency = 'elite' then 10 
         when c.Frequency = 'Standard' then 4 
