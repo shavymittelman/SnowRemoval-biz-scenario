@@ -14,3 +14,5 @@ union select 'Raymond', 'Baum', '4381 St-Jerome Street', 'St Jerome', 'Quebec', 
 union select 'Martin', 'Wiesel', '1308 Tanner Street', 'Vancouver', 'British Columbia', 'V5R 2T4', 'pathway and backyard and back porch', 42, 'elite', '2021/1/27', null
 union select 'Paul', 'Francois', '352 Bridgeport Rd', 'Alliston', 'Ontario', 'L9R 1H4', 'staircase and pathway', 25, 'occasional', '2014/12/6', '2021/12/6'
 union select 'Jo', 'Twain', '2529 Keith Road', 'North Vancouver', 'British Columbia', 'V5T 2C1', 'pathway and driveway and staircase', 35, 'standard', '2020/11/9', null
+
+select * from Client
